@@ -20,7 +20,7 @@ Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks(https://arxiv.org
 |------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | KoSRoBERTa<sup>small</sup>    | 84.27 | 84.17 | 83.33 | 83.65 | 83.34 | 83.65 | 82.10 | 81.38 |
 
-# Reference
+## Reference
 
 ```
 @misc{park2021klue,
